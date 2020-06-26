@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\bin\Debug\netcoreapp3.1\Aula 26 - Interfaces.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 26 - Interfaces\obj\Debug\netcoreapp3.1\Aula 26 - Interfaces.genruntimeconfig.cache
